@@ -1,0 +1,100 @@
+name,language,description,stars,forks,open_issues,size,created_at,updated_at
+getpython3.com,CSS,getpython3.com page and resources.,46,15,8,400,2011-09-28T12:30:52Z,2026-09-07T02:12:33Z
+community-starter-kit,Python,Collection of resources for Python community organizers,52,23,3,225,2012-03-12T19:23:37Z,2026-09-09T01:53:00Z
+psf-docs,Python,PSF Docs,23,9,3,182,2012-05-06T14:19:20Z,2026-08-27T10:32:30Z
+historic-python-materials,Python,Contains some old pages from python.org,24,14,0,20969,2012-05-11T16:15:38Z,2026-10-05T07:29:43Z
+psf-chef,Ruby,Chef configuration and cookbooks for the Python Software Foundation,47,34,1,8943,2012-05-21T02:31:56Z,2026-08-27T10:32:28Z
+psfoutreach,Shell,PSF Outreach website,8,7,9,572,2012-08-31T15:19:30Z,2026-08-27T10:32:32Z
+pythondotorg,Python,Source code for python.org,1673,712,26,28184,2012-10-08T16:00:15Z,2026-11-19T18:51:17Z
+mypy,Python,Optional static typing for Python,20729,3494,3253,89577,2012-12-07T13:30:23Z,2026-11-19T22:54:17Z
+raspberryio,Python,Source code for raspberry.io,229,38,19,4649,2013-01-11T21:29:18Z,2026-08-27T10:32:52Z
+pycon-code-of-conduct,,pycon code of conduct,118,91,7,39,2013-03-21T14:08:58Z,2026-11-03T12:50:59Z
+peps,reStructuredText,Python Enhancement Proposals,5040,1824,58,48921,2013-10-08T13:27:12Z,2026-11-19T19:04:13Z
+psf-salt,Hurl,PSF infrastructure configuration,125,71,41,5879,2014-08-22T22:49:43Z,2026-11-09T17:13:05Z
+docsbuild-scripts,Python,Scripts for building the documentation on docs.python.org,83,72,8,478,2014-09-01T19:29:17Z,2026-11-12T09:49:44Z
+planet,Python,Configuration for Python planets,144,203,37,1297,2014-09-19T04:26:25Z,2026-11-02T09:37:27Z
+typing,Python,Python static typing home. Hosts the documentation and a user help forum.,1784,310,233,4359,2014-09-29T16:54:42Z,2026-11-19T22:54:56Z
+speed.python.org,HTML,,15,2,0,26,2014-12-18T19:48:53Z,2026-08-27T10:32:54Z
+typeshed,Python,"Collection of library stubs for Python, with static types",5156,2152,446,34355,2015-03-05T04:51:28Z,2026-11-19T19:30:02Z
+asyncio,,asyncio historical repository,1081,180,86,2225,2015-04-10T16:41:54Z,2026-11-19T19:32:47Z
+buildbot,Python,Fork of BuildBot formerly running on buildbot.python.org,8,7,0,42115,2015-08-17T16:56:20Z,2026-08-27T10:32:04Z
+psf-packages,HTML,Packages for the PSF infrastructure,9,4,1,7455,2015-10-05T17:13:37Z,2026-08-27T10:32:31Z
+typed_ast,C,Modified fork of CPython's ast module that parses `# type:` comments,234,53,1,1747,2016-02-16T22:40:09Z,2026-08-27T10:32:57Z
+the-knights-who-say-ni,Python,CLA enforcement bot for Python organization projects,86,33,0,243,2016-03-28T16:39:27Z,2026-09-18T23:32:31Z
+devinabox,Python,Documentation and tools to help host a sprint on Python core development,19,8,6,54,2016-05-08T20:03:52Z,2026-08-27T10:32:13Z
+pythontestdotnet,HTML,source of pythontest.net (resources used for Python test suite),15,11,0,6586,2016-06-02T21:42:55Z,2026-09-16T15:41:23Z
+pythonineducation.org,HTML,The pythonineducation.org website,33,27,9,10534,2016-06-15T18:10:10Z,2026-08-27T10:32:51Z
+tlsproxy,Python,,10,8,0,2,2016-06-18T16:26:09Z,2026-08-27T10:32:56Z
+devguide,Python,The Python developer's guide,2114,1094,124,3338,2016-07-22T17:48:56Z,2026-11-19T20:04:39Z
+overload-sig,,"Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/",6,3,3,1,2016-08-17T14:22:49Z,2026-08-27T10:32:25Z
+pyperformance,Python,Python Performance Benchmark Suite,1044,213,87,9936,2016-08-17T23:43:22Z,2026-11-19T20:06:39Z
+release-tools,Python,Scripts for making (C)Python releases,66,49,23,1449,2016-09-05T18:25:11Z,2026-11-13T04:17:23Z
+core-workflow,Python,Issue tracker for CPython's workflow,103,58,9,334,2016-12-10T00:36:07Z,2026-11-18T17:04:14Z
+buildmaster-config,Python,Configuration for buildbot.python.org,61,63,9,1036,2017-01-31T03:29:06Z,2026-11-12T15:56:11Z
+cpython,Python,The Python programming language,78426,36625,9351,916939,2017-02-10T19:23:51Z,2026-11-20T06:59:28Z
+docker-bpo,Python,Docker image for bugs.python.org,15,15,2,29,2017-02-26T20:47:20Z,2026-08-27T10:32:14Z
+bedevere,Python,A bot to help identify missing information for CPython pull requests,142,68,15,555,2017-04-07T18:15:00Z,2026-11-19T12:08:45Z
+cpython-source-deps,,Source for packages that the cpython build process depends on,31,49,0,198674,2017-05-22T17:20:29Z,2026-11-11T16:21:03Z
+cpython-bin-deps,,Binaries that the cpython build process depends on,31,37,0,1423467,2017-05-22T17:22:58Z,2026-08-27T10:32:10Z
+python-docs-fr,Python,Mirroir de https://git.afpy.org/AFPy/python-docs-fr,355,260,2,65303,2017-05-22T20:40:58Z,2026-11-19T20:28:36Z
+python-docs-theme,CSS,Sphinx theme for Python documentation,90,81,12,395,2017-06-04T21:14:32Z,2026-11-04T21:24:32Z
+python-docs-hu,,Hungarian Translation of the Python Documentation,13,8,0,51786,2017-06-11T13:32:05Z,2026-08-27T10:32:39Z
+python-docs-ja,Python,Japanese Translation of the Python Documentation,75,39,0,222223,2017-06-11T13:33:21Z,2026-11-12T00:49:36Z
+python-docs-bn-in,Makefile,Bengali Translation of the Python Documentation,7,3,5,3844,2017-06-11T13:34:47Z,2026-10-21T02:54:12Z
+python-docs-pt-br,Python,Brazilian Portuguese translation of the Python Documentation,166,44,18,260004,2017-06-22T21:33:42Z,2026-11-07T22:29:41Z
+psf-infra-meta,,Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :),12,7,44,2,2017-06-23T02:32:37Z,2026-08-27T10:32:30Z
+consul-operator,Go,A kubernetes operator for consul,19,5,2,22,2017-08-05T21:57:14Z,2026-08-27T10:32:08Z
+redistributor-guide,,Guidance & recommendations for anyone publishing their own binary builds of CPython,9,3,1,5,2017-08-15T10:53:53Z,2026-08-27T10:32:53Z
+psf-community-resources,,Short guides to PSF-related resources,14,5,7,9,2017-08-17T16:27:10Z,2026-08-27T10:32:29Z
+miss-islington,Python,🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests,117,46,4,482,2017-09-05T17:06:04Z,2026-11-11T17:46:37Z
+bpo-builder,Python,bugs.python.org builder image & other deployment artifacts,8,4,5,35,2017-12-15T08:00:38Z,2026-08-27T10:32:03Z
+python-docs-ko,,Korean translation of the Python documentation,78,57,377,29934,2018-01-12T13:07:00Z,2026-10-14T08:40:48Z
+python-dev-survey,,Place for gathering feedback from the public on the Python Developers Survey,12,2,12,3,2018-03-28T16:12:03Z,2026-08-27T10:32:35Z
+bugs.python.org,,Meta-issue tracker for bugs.python.org,13,6,4,2,2018-06-15T13:23:47Z,2026-08-27T10:32:04Z
+python-docs-zh-tw,Python,Traditional Chinese (zh-tw) translation of the Python Documentation,287,231,50,1643094,2018-06-24T06:19:52Z,2026-11-16T16:16:31Z
+blurb_it,Python,`blurb add` over the internet,35,24,8,1017,2018-09-12T00:53:09Z,2026-11-01T04:16:46Z
+python-docs-zh-cn,,Simplified Chinese translation of the Python documentation,472,107,8,350484,2018-10-22T13:03:51Z,2026-11-20T03:30:27Z
+mypy_extensions,Python,Extensions for mypy,157,42,8,55,2019-01-14T23:37:26Z,2026-11-15T07:46:19Z
+steering-council,Makefile,Communications from the Steering Council,183,36,11,219,2019-02-12T19:18:46Z,2026-11-15T11:56:49Z
+codespeed,Python,A fork of Codespeed that includes the instances run at https://speed.python.org/ and https://speed.pypy.org,41,22,13,3306,2019-02-22T10:53:30Z,2026-11-11T00:01:59Z
+python-docs-it,,Italian translation of the Python documentation.,16,13,5,6938,2019-04-21T15:55:34Z,2026-08-27T10:32:40Z
+python-docs-es,Python,Spanish translation of the Python documentation.,372,417,443,47262,2019-05-06T15:33:13Z,2026-11-19T21:23:08Z
+cherry-picker,Python,🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.,66,53,16,371,2019-05-30T20:49:46Z,2026-11-12T15:23:01Z
+.github,,Organization-wide GitHub settings,15,35,3,10,2019-05-31T01:27:21Z,2026-09-07T18:43:54Z
+python-docs-id,Python,Terjemahan Bahasa Indonesia untuk Dokumentasi Python,82,28,5,33663,2019-10-10T00:18:41Z,2026-11-12T01:21:30Z
+python-docs-pl,Python,Polskie tłumaczenie dokumentacji Pythona,61,17,6,123844,2019-12-10T23:37:12Z,2026-11-19T20:20:33Z
+exceptiongroups,,An early draft of a PEP around Exception Groups in Python,23,3,2,69,2019-12-16T19:41:57Z,2026-08-27T10:32:17Z
+hugs.python.org,,,11,3,1,7,2020-02-02T19:09:38Z,2026-08-27T10:32:19Z
+tzdata,Python,Python package wrapping the IANA time zone database,126,27,7,710,2020-02-21T14:32:53Z,2026-11-20T00:28:59Z
+pythoncapi-compat,C++,  The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python versions with a single code base.,112,43,0,616,2020-06-04T17:09:06Z,2026-11-04T22:03:42Z
+core-sprint,Python,Repo for Virtual Core Dev Sprint 2020,18,16,2,511,2020-08-07T20:19:04Z,2026-08-27T10:32:08Z
+importlib_resources,Python,Backport of the importlib.resources module,75,54,12,1142,2020-10-21T21:02:58Z,2026-11-15T08:26:12Z
+importlib_metadata,Python,Library to access metadata for Python packages,143,105,14,1802,2020-10-22T20:13:11Z,2026-11-15T07:46:18Z
+pootle-python-org-backup,Python,,6,5,0,20549,2020-11-01T21:41:47Z,2026-08-27T10:32:27Z
+language-summit,,Resources for the annual Python Language Summit,9,2,0,3,2021-01-14T17:01:30Z,2026-09-07T18:44:51Z
+docs-community,Makefile,Community management for documentation contributors and the Docs Workgroup,55,29,21,2784,2021-04-16T18:19:40Z,2026-11-15T11:15:16Z
+discord-bot,Python,Discord Bot for Core Devs Discord server,25,10,4,11,2021-07-24T05:21:05Z,2026-08-27T10:32:14Z
+python-docs-tr,Python,Turkish Translation of the Python Documentation,128,49,34,10507,2021-12-18T13:34:26Z,2026-10-12T09:06:41Z
+typing_extensions,Python,Backported and experimental type hints for Python,595,154,18,2502,2022-05-19T13:12:25Z,2026-11-19T22:34:59Z
+python-docs-uk,Makefile,Ukrainian translation of the Python Documentation,33,15,12,2068,2022-06-16T22:26:58Z,2026-08-27T10:32:47Z
+bench_runner,Python,Code for running pyperformance benchmarks on Github Action runners,10,12,18,3577,2023-06-21T19:07:30Z,2026-11-16T18:40:36Z
+typing-council,,Decisions by the Python Typing Council,57,3,5,16,2023-11-28T00:34:08Z,2026-10-15T14:13:32Z
+python-docs-ru,,Russian Translation of the Python Docs,21,6,1,43044,2023-12-25T11:39:35Z,2026-11-03T12:45:57Z
+editorial-board,HTML,Communications of the Python Documentation Editorial Board,14,3,8,229,2024-01-08T23:57:46Z,2026-11-12T15:47:23Z
+python-docs-el,Python,Greek Translation of the Python Documentation,30,25,856,12569,2024-03-14T12:05:47Z,2026-08-27T10:32:36Z
+blurb,Python,Command-line tool to manage CPython Misc/NEWS.d entries,23,16,4,312,2024-03-20T15:41:45Z,2026-11-08T20:49:57Z
+webhook-mailer,Python,GitHub Webhooks -> Email,4,4,0,43,2024-06-25T15:03:10Z,2026-08-27T10:33:00Z
+psrt-ghsa-bot,Python,Bot which adds the PSRT GitHub team and CVE IDs to GitHub Security Advisories,7,4,10,247,2024-06-27T20:31:00Z,2026-11-05T16:18:49Z
+cpython-devcontainers,Dockerfile,Repository for devcontainers of CPython,16,28,2,129,2024-09-23T17:42:22Z,2026-11-02T22:59:05Z
+python-docs-fa,Python,Farsi (Persian) translation of the official Python documentation,107,20,31,53096,2025-02-10T00:01:14Z,2026-11-15T23:36:36Z
+python-docs-ro,PowerShell,O traducere în românește a documentației Python.,3,4,0,5143,2025-03-04T12:45:13Z,2026-08-27T10:32:44Z
+pymanager,Python,The Python Install Manager (for Windows),376,82,22,978,2025-04-28T16:59:04Z,2026-11-17T08:20:24Z
+memory.python.org,Python,A memory benchmarking and analysis tool for CPython development,19,9,9,2705,2025-06-21T21:12:24Z,2026-08-27T10:32:22Z
+python-docs-sv,,Sweedish Translation of the Python Documentation,2,1,0,32104,2025-08-13T18:16:02Z,2026-08-27T10:32:45Z
+prebuilt-cpython,Python,Repository for discussing/planning prebuilt binaries of CPython,33,11,3,114,2025-10-13T18:18:24Z,2026-11-09T18:32:11Z
+library-fuzzers,Python,"Fuzzer definitions, seed corpora and dictionaries to fuzz-test the stdlib",7,11,19,29695,2025-11-17T10:16:26Z,2026-11-05T08:14:41Z
+python-insider-blog,Astro,,32,14,12,11667,2026-02-13T05:49:21Z,2026-11-10T22:07:19Z
+python-docs-pa,,Punjabi (India) translation of the Python Documentation.,6,4,11,22497,2026-06-11T09:35:22Z,2026-11-12T20:26:41Z
+python-docs-de,Python,German translation of the Python Documentation,1,2,0,41903,2026-09-08T17:28:15Z,2026-11-09T06:05:29Z
+turtle-translations,Python,Translations of the docstrings of Python's 'turtle' module.,2,2,2,219,2026-09-12T15:57:14Z,2026-10-17T23:04:04Z
+packaging-council,,Public Records from the Python Packaging Council,6,4,6,23,2026-09-18T19:40:04Z,2026-11-06T15:30:54Z
